@@ -1,0 +1,16 @@
+{
+  "qwen": {
+    "api_url": "https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions",
+    "api_key": "<你的 DashScope API Key>",
+    "model": "qwen-vl-max"
+  },
+  "deepseek": {
+    "api_url": "https://api.deepseek.com/v1/chat/completions",
+    "api_key": "<你的 DeepSeek API Key>",
+    "model": "deepseek-reasoner"
+  },
+  "output": {
+    "plan_file": "plan.md",
+    "code_dir": "generated"
+  }
+}

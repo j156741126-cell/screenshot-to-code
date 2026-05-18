@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "qwen-vision": {
+      "command": "python",
+      "args": ["<项目路径>/ai-pipeline/mcp_server.py"]
+    }
+  }
+}

@@ -1,0 +1,7 @@
+__pycache__/
+*.pyc
+test_screenshot.png
+.mcp_init
+generated/
+plan.md
+screenshot.png
