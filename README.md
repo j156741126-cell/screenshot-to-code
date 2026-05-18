@@ -56,3 +56,5 @@ python orchestrator.py screenshot.png --no-code
 
 - 技术方案保存到 `plan.md`
 - 代码生成到 `generated/` 目录
+"根据 CLAUDE.md 帮我配置并运行这个项目
+提示词命令，一键配置
